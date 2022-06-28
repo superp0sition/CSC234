@@ -1,0 +1,3 @@
+﻿  tester.cpp
+C:\Users\dbadc\source\repos\DB-Lab_07\DB-Lab_07\tester.cpp(177,23): warning C4018: '<': signed/unsigned mismatch
+  DB-Lab_07.vcxproj -> C:\Users\dbadc\source\repos\DB-Lab_07\Debug\DB-Lab_07.exe

@@ -35,5 +35,5 @@
 *.zip
 
 # Group
-$GIT_DIR/CSC234*/**
+/CSC234/CSC234*/**
 
