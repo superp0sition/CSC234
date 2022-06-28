@@ -1,4 +1,0 @@
-﻿  JSONtoCSV.cpp
-C:\Users\dbadc\source\repos\JSONtoCSV\JSONtoCSV\JSONtoCSV.cpp(53,28): warning C4018: '<': signed/unsigned mismatch
-C:\Users\dbadc\source\repos\JSONtoCSV\JSONtoCSV\JSONtoCSV.cpp(55,28): warning C4018: '<': signed/unsigned mismatch
-  JSONtoCSV.vcxproj -> C:\Users\dbadc\source\repos\JSONtoCSV\Debug\JSONtoCSV.exe
