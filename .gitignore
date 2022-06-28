@@ -31,8 +31,9 @@
 *.out
 *.app
 
-#Archives
+# Archives
 *.zip
 
-#Group
+# Group
 /CSC234*/**
+
