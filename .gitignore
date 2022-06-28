@@ -35,6 +35,6 @@
 *.zip
 
 # Group
-/CSC234/CSC234*/**
-/CSC234/JSONtoCSV/**
+/Projects/CSC234*/**
+/Projects/JSONtoCSV/**
 
