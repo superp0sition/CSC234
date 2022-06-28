@@ -1,4 +1,0 @@
-﻿  main.cpp
-C:\Users\dbadc\source\repos\DB-Lab_06\DB-Lab_06\main.cpp(111): warning C4715: 'recSeqSearch': not all control paths return a value
-C:\Users\dbadc\source\repos\DB-Lab_06\DB-Lab_06\main.cpp(127): warning C4715: 'recFindHighest': not all control paths return a value
-  DB-Lab_06.vcxproj -> C:\Users\dbadc\source\repos\DB-Lab_06\Debug\DB-Lab_06.exe

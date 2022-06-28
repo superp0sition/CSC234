@@ -1,4 +1,0 @@
-﻿  DB-Lab_02a.cpp
-C:\Users\dbadc\source\repos\DB_Lab-02\DB_Lab-02\DB-Lab_02a.cpp(62,73): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
-C:\Users\dbadc\source\repos\DB_Lab-02\DB_Lab-02\DB-Lab_02a.cpp(64,37): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
-  DB_Lab-02.vcxproj -> C:\Users\dbadc\source\repos\DB_Lab-02\x64\Debug\DB-Lab_02a.exe
