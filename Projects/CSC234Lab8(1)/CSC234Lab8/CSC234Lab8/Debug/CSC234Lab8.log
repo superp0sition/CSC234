@@ -1,0 +1,7 @@
+﻿  Customer.cpp
+  CustomerList.cpp
+  OrderList.cpp
+  Source.cpp
+  Generating Code...
+D:\CSC234\Labs\Lab8\CSC234Lab8\CSC234Lab8\CustomerList.cpp(36): warning C4715: 'CustomerList::getCustomerByName': not all control paths return a value
+  CSC234Lab8.vcxproj -> D:\CSC234\Labs\Lab8\CSC234Lab8\Debug\CSC234Lab8.exe

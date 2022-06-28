@@ -1,0 +1,9 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(513,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (Lab8.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  CustomerList.cpp
+C:\Users\dbadc\source\repos\CSC234GRP3Lab08\CSC234GRP3Lab08\OrderList.h(10,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  OrderList.cpp
+C:\Users\dbadc\source\repos\CSC234GRP3Lab08\CSC234GRP3Lab08\OrderList.h(10,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  Source.cpp
+C:\Users\dbadc\source\repos\CSC234GRP3Lab08\CSC234GRP3Lab08\OrderList.h(10,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  Generating Code...
+  CSC234GRP3Lab08.vcxproj -> C:\Users\dbadc\source\repos\CSC234GRP3Lab08\Debug\CSC234GRP3Lab08.exe
